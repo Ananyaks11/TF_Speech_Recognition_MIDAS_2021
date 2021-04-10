@@ -24,9 +24,9 @@ Date of Submission - 10/4/2021
 - matplotlib
 
 ##### Required Details-
-###### *RANK* - 
-###### *SCORE* -
-###### *ENTRY* - 
+###### *RANK* - (Not available since competition ended 3yrs ago)
+###### *SCORE* - PUBLIC- 0.70394 , PRIVATE - 0.72183
+###### *ENTRY* - (Not available since competition ended 3yrs ago)
 
 &nbsp;
 
