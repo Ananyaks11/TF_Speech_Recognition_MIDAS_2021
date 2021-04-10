@@ -39,7 +39,7 @@ Date of Submission - 10/4/2021
 - ##### *Model Architectures Explored*:
    -  **LSTM** -- Long Short-Term memory models were used to obtain an accuracy of -___________ in __________ epochs. However, they seemed to be less efficient than expected since they are bulit for longer audio files. These audio files were short in time and hence they the LSTMs did not retrieve much data to remember.
    -  **CNN** -- Convolutional Neural Networks have proved themselves to be a great deal while analyzing the short audio files present in the data. They have outperformed RNNs and LSTMs in this particular case due to their efficiency. This was already predicted by cited references. The obtained accuracy was ___________ in __________epochs.
-   -  **RNN** -- Recurrent Neural Networks are proven to obtain ahigh accuracy on temporal data.It is more suitable on data which requires to be put in an order like audio than CNNs. In the tests conducted by me, The accuracy obtained by RNN was _________ on ______ number of epochs respectively.
+
    
 ##### CODE ENVIRONMENT-
 - This code is reproducible in Jupyter Notebook environment available with anaconda. Python 3 is used for the same.
