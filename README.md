@@ -5,12 +5,12 @@ Collection of Jupyter files for MIDAS 2021 Summer Intern Project
 
 
 ##### Applicant Details-
-Name - Ananya Komal Singh 
-Institution - Delhi Technological University (DTU)
-Department - Information Technology (IT)
-Year - 2nd Year
-Email - ananyaksingh11@gmail.com
-Date of Submission - 10/4/2021
+- Name - Ananya Komal Singh 
+- Institution - Delhi Technological University (DTU)
+- Department - Information Technology (IT)
+- Year - 2nd Year
+- Email - ananyaksingh11@gmail.com
+- Date of Submission - 10/4/2021
 ##### System Requirements-
 - librosa 
 - numpy
