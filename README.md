@@ -4,14 +4,14 @@ Collection of Jupyter files for MIDAS 2021 Summer Intern Project
 ## MIDAS@IIITD Summer Internship Task (2021)
 
 
-##### Applicant Details-
+#### Applicant Details-
 - Name - Ananya Komal Singh 
 - Institution - Delhi Technological University (DTU)
 - Department - Information Technology (IT)
 - Year - 2nd Year
 - Email - ananyaksingh11@gmail.com
 - Date of Submission - 10/4/2021
-##### System Requirements-
+#### System Requirements-
 - librosa 
 - numpy
 - tensorflow
@@ -23,7 +23,7 @@ Collection of Jupyter files for MIDAS 2021 Summer Intern Project
 - sklearn
 - matplotlib
 
-##### Required Details-
+#### Required Details-
 
 ######  SCORE - PUBLIC- 0.70394 , PRIVATE - 0.72183
 ###### *RANK* - (Not available since competition ended 3yrs ago)
@@ -31,7 +31,7 @@ Collection of Jupyter files for MIDAS 2021 Summer Intern Project
 
 &nbsp;
 
-##### Approach -
+#### Approach -
 - ##### *Feature Extraction*:
     -  Various methods of Feature Extraction form audio files are available, viz.a.viz MFCC, PLP, Log Spectrogram, LPCC,LSF, DWT and LPC...etc. However cited research papers suggested only MFCC, Log spectrogram, PLP and LPCC produce great results due to their relation to the human organs used for sound analysis and production. The results presented are achieved after MFCC and Log Spectrogram were used for Feature Extraction respectively. 
     -  According to comparisons of validation accuracy, it was observed that Log Spectrogram was producing better results than MFCC.
@@ -41,7 +41,7 @@ Collection of Jupyter files for MIDAS 2021 Summer Intern Project
     -  Models Inlcuding RNNs such as LSTM and Convulutional Neural Networks were tested for performance with MFCC and Log SPectogram.
 
    
-##### CODE ENVIRONMENT-
+#### CODE ENVIRONMENT-
 - This code is reproducible in Jupyter Notebook environment available with anaconda. Python 3 is used for the same.
 
 
